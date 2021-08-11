@@ -11,7 +11,7 @@ shared_preferences:
 If you found this project useful, then please consider giving it a :star: on Github and follow me on GitHub.
 
 
-### Neumorphic SignIn And SignUp UI
+### Simple Trading App Screen Shots
 
 ![App UI](/scr.gif)
 ![App UI](/1.jpg)

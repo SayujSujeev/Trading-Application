@@ -12,8 +12,8 @@ class Datum {
   // });
 
   Datum.fromJson(Map<String, dynamic> json)
-      : id = json['id'],
-        name = json['name'],
-        exchange = json['exchange'],
-        currentPrice = json['current_price'];
+      : id = json['stocks']['id'],
+        name = json['stocks']['name'],
+        exchange = json['stocks']['exchange'],
+        currentPrice = json['stocks']['current_price'];
 }

@@ -4,12 +4,12 @@ class Datum {
   final String exchange;
   final double currentPrice;
 
-  // Datum({
-  //   required this.id,
-  //   required this.name,
-  //   required this.exchange,
-  //   required this.currentPrice,
-  // });
+  Datum({
+    required this.id,
+    required this.name,
+    required this.exchange,
+    required this.currentPrice,
+  });
 
   Datum.fromJson(Map<String, dynamic> json)
       : id = json['stocks']['id'],

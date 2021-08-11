@@ -11,6 +11,7 @@ import 'package:flutter/material.dart';
 // const Color primary = Color.fromRGBO(24, 28, 31, 1);
 const Color black = Colors.black;
 const Color white = Colors.white;
+const Color grey = Colors.grey;
 const Color primary = Color.fromRGBO(12, 148, 136, 1);
 
 const double appPadding = 30;

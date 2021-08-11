@@ -1,16 +1,19 @@
-# trading_application
+# Simple Trading App
 
-A new Flutter project.
+### Packages Used:
+salomon_bottom_bar:
+fl_chart:
+flutter_svg:
+shared_preferences:
 
-## Getting Started
+### :heart: Found this project useful?
 
-This project is a starting point for a Flutter application.
+If you found this project useful, then please consider giving it a :star: on Github and follow me on GitHub.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Neumorphic SignIn And SignUp UI
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App UI](/scr.gif)
+![App UI](/1.jpg)
+![App UI](/2.jpg)
+![App UI](/3.jpg)
